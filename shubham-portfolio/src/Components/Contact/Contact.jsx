@@ -38,7 +38,7 @@ export const Contact = () => {
             <CgMail className="email" />
           </a>
           <a
-            href="https://instagram.com/gaikwad7777@gmail.com"
+            href="https://instagram.com/shubhamg7777"
             target="_blank"
             rel="noreferrer"
           >
