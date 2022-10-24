@@ -4,15 +4,18 @@ import { FaReact, FaNodeJs } from "react-icons/fa";
 import {
   SiRedux,
   SiHtml5,
+  SiCss3,
+  SiJavascript,
   SiMaterialui,
+  SiChakraui,
   SiExpress,
   SiRedis,
   SiTailwindcss,
   SiNetlify,
-  SiPostman
+  SiVercel,
+  SiPostman,
 } from "react-icons/si";
-import { DiCss3, DiMongodb } from "react-icons/di";
-import { SiJavascript } from "react-icons/si";
+import { DiMongodb, DiHeroku } from "react-icons/di";
 import { VscGithub } from "react-icons/vsc";
 import { BsBootstrap } from "react-icons/bs";
 
@@ -31,12 +34,16 @@ export const Techstacks = () => {
             <h5>HTML</h5>
           </div>
           <div>
-            <DiCss3 />
+            <SiCss3 />
             <h5>CSS</h5>
           </div>
           <div>
             <FaReact />
             <h5>React</h5>
+          </div>
+          <div>
+            <SiRedux />
+            <h5>Redux</h5>
           </div>
           <div>
             <FaNodeJs />
@@ -51,10 +58,13 @@ export const Techstacks = () => {
             <SiExpress />
             <h5>Express</h5>
           </div>
-
           <div>
             <SiMaterialui />
-            <h5>Material Ui</h5>
+            <h5>Material UI</h5>
+          </div>
+          <div>
+            <SiChakraui />
+            <h5>Chakra UI</h5>
           </div>
           <div>
             <BsBootstrap />
@@ -67,6 +77,14 @@ export const Techstacks = () => {
           <div>
             <SiNetlify />
             <h5>Netlify</h5>
+          </div>
+          <div>
+            <DiHeroku />
+            <h5>Heroku</h5>
+          </div>
+          <div>
+            <SiVercel />
+            <h5>Vercel</h5>
           </div>
           <div>
             <VscGithub />

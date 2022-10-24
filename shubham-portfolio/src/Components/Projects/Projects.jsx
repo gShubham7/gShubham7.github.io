@@ -195,7 +195,7 @@ export const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href=""
+                  href="https://github.com/gShubham7/Weather-App"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -238,7 +238,7 @@ export const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href=""
+                  href="https://github.com/gShubham7/ToDo-App"
                   target="_blank"
                   rel="noreferrer"
                 >

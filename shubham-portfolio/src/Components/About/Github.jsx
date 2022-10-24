@@ -1,5 +1,6 @@
 import React from "react";
 import Githubcalendar from "react-github-calendar";
+import Stats from "./GithubStats";
 import { ThemeContext } from "../../Context/theme";
 
 export const Github = () => {
@@ -27,6 +28,7 @@ export const Github = () => {
           theme={themename}
           fontSize={16}
         />
+        <Stats/>
       </div>
     </>
   );

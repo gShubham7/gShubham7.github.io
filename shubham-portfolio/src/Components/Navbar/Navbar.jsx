@@ -13,7 +13,15 @@ export const Navbar = () => {
   const toggleNavList = (id) => {
     var element = document.getElementById(id);
     if (element) {
-      element.scrollIntoView();
+      const headerOffset = 150;
+      const elementPosition = element.getBoundingClientRect().top;
+      const offsetPosition =
+        elementPosition + window.pageYOffset - headerOffset;
+
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: "smooth",
+      });
     }
     setShowNavList(!showNavList);
   };
