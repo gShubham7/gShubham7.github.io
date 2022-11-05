@@ -14,6 +14,8 @@ import {
   SiNetlify,
   SiVercel,
   SiPostman,
+  SiTypescript,
+  SiFigma,
 } from "react-icons/si";
 import { DiMongodb, DiHeroku } from "react-icons/di";
 import { VscGithub } from "react-icons/vsc";
@@ -36,6 +38,10 @@ export const Techstacks = () => {
           <div>
             <SiCss3 />
             <h5>CSS</h5>
+          </div>
+          <div>
+            <SiTypescript />
+            <h5>TypeScript</h5>
           </div>
           <div>
             <FaReact />
@@ -69,6 +75,10 @@ export const Techstacks = () => {
           <div>
             <BsBootstrap />
             <h5>Bootstrap</h5>
+          </div>
+          <div>
+            <SiFigma />
+            <h5>Figma</h5>
           </div>
           <div>
             <SiPostman />

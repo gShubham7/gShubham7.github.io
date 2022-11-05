@@ -29,15 +29,16 @@ export const Projects = () => {
         <div className="projects_container">
           <div className="project">
             <div className="project_videocontainer">
-              <div data-aos="fade-right">               
-                <img src="./cult-fit-clone.png" alt="cult-fit" />                
+              <div data-aos="fade-right">
+                <img src="./cult-fit-clone.png" alt="cult-fit" />
               </div>
             </div>
             <div className="project_information" data-aos="fade-right">
               <h2>cult-fit Clone</h2>
               <p>
-                Clone of the popular sportswear website cultsport. Built on
-                react. It's a individual project executed in 4 days.
+                Cult Fit is a fitness based online platform and cult-fit sports
+                is subsidiary of cult-fit, engaged in sportswear, at-home
+                workout equipments, bicycles & nutraceutical.
               </p>
               <div>
                 <FaReact />
@@ -59,7 +60,7 @@ export const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://github.com/gShubham7/shivering-haircut-3518"
+                  href="https://github.com/gShubham7/cult-fit-Clone"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -81,9 +82,9 @@ export const Projects = () => {
             <div className="project_information" data-aos="fade-right">
               <h2>boAt Clone</h2>
               <p>
-                First Project with HTML, CSS, and JavaScript Only. Main
-                functionalities were : Register, Login , Sorting and Filtering
-                in the Products page, Cart and many more.
+                boAt is an audio and wearable brand.They have most incredible
+                range of wireless earphones, earbuds, headphones, smart watches,
+                and home theaters.
               </p>
               <div>
                 <SiHtml5 />
@@ -105,7 +106,7 @@ export const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://github.com/gShubham7/aquatic-beef-7375"
+                  href="https://github.com/gShubham7/boAt-Clone"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -121,19 +122,19 @@ export const Projects = () => {
           <div className="project">
             <div className="project_videocontainer">
               <div data-aos="fade-right">
-                <img
-                  src="./sparkAmerica-clone.png"
-                  alt="sparkAmerica"
-                />
+                <img src="./sparkAmerica-clone.png" alt="sparkAmerica" />
               </div>
             </div>
             <div className="project_information" data-aos="fade-right">
               <h2>sparkAmerica Clone </h2>
               <p>
-                Fully responsive website built with HTML, CSS, JavaScript and other CSS Libraries.
+                SparkAmerica is a movement launching from a platform. It is
+                Fitness & Health, Leadership Development, and Community
+                Engagement by helping one person, one organization, and one city
+                at a time.
               </p>
               <div>
-              <SiHtml5 />
+                <SiHtml5 />
                 <SiCss3 />
                 <IoLogoJavascript />
                 {/* <SiNodedotjs />
@@ -151,7 +152,7 @@ export const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://github.com/gShubham7/crowded-push-1335"
+                  href="https://github.com/gShubham7/sparkAmerica-Clone"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -167,22 +168,21 @@ export const Projects = () => {
           <div className="project">
             <div className="project_videocontainer">
               <div data-aos="fade-right">
-                <img
-                  src="./Weather-App.png"
-                  alt="Weather-App"
-                />
+                <img src="./Weather-App.png" alt="Weather-App" />
               </div>
             </div>
             <div className="project_information" data-aos="fade-right">
               <h2>Weather App</h2>
               <p>
-                Mini project to get the weather of a particular location built using JavaScript and APIs.
-                Features : Button for Searching The location, Details such as temperature wind speed will be shown along with 7 days forcat, etc.
+                Mini project to get the weather of a particular location built
+                using JavaScript and APIs. Features : Button for Searching The
+                location, Details such as temperature wind speed will be shown
+                along with 7 days forcat, etc.
               </p>
-              <div>               
+              <div>
                 <SiHtml5 />
                 <SiCss3 />
-                <IoLogoJavascript/>
+                <IoLogoJavascript />
               </div>
               <div>
                 <a
@@ -211,17 +211,12 @@ export const Projects = () => {
           <div className="project">
             <div className="project_videocontainer">
               <div data-aos="fade-right">
-                <img
-                  src="./ToDo-App.png"
-                  alt="ToDo-App"
-                />
+                <img src="./ToDo-App.png" alt="ToDo-App" />
               </div>
             </div>
             <div className="project_information" data-aos="fade-right">
               <h2>TODO App</h2>
-              <p>
-                Vanilla JS web app to add and delete Todo. 
-              </p>
+              <p>Vanilla JS web app to add and delete Todo.</p>
               <div>
                 <SiHtml5 />
                 <SiCss3 />
