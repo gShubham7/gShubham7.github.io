@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0cc84805.chunk.css",
-    "main.js": "/static/js/main.ecf3d20d.chunk.js",
-    "main.js.map": "/static/js/main.ecf3d20d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c9b1da0f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c9b1da0f.js.map",
-    "static/css/2.95d02a1e.chunk.css": "/static/css/2.95d02a1e.chunk.css",
-    "static/js/2.6eab455d.chunk.js": "/static/js/2.6eab455d.chunk.js",
-    "static/js/2.6eab455d.chunk.js.map": "/static/js/2.6eab455d.chunk.js.map",
+    "main.css": "/static/css/main.e5163e20.css",
+    "main.js": "/static/js/main.22d617b8.js",
+    "static/js/333.ff23a92f.chunk.js": "/static/js/333.ff23a92f.chunk.js",
+    "static/media/profile.png": "/static/media/profile.44090ac8355c9bf3f655.png",
+    "static/media/boat.png": "/static/media/boat.2405b56914125be59e4b.png",
+    "static/media/justShop.png": "/static/media/justShop.78290883c97496392197.png",
+    "static/media/sparkAmerica.png": "/static/media/sparkAmerica.a8e4f510e218f2bba419.png",
+    "static/media/cult-fit.png": "/static/media/cult-fit.b9b97167ee7b3f79f931.png",
+    "static/media/Shubham_Gaikwad_Resume.pdf": "/static/media/Shubham_Gaikwad_Resume.141fc800c51b16b41b9b.pdf",
     "index.html": "/index.html",
-    "static/css/2.95d02a1e.chunk.css.map": "/static/css/2.95d02a1e.chunk.css.map",
-    "static/css/main.0cc84805.chunk.css.map": "/static/css/main.0cc84805.chunk.css.map",
-    "static/js/2.6eab455d.chunk.js.LICENSE.txt": "/static/js/2.6eab455d.chunk.js.LICENSE.txt"
+    "main.e5163e20.css.map": "/static/css/main.e5163e20.css.map",
+    "main.22d617b8.js.map": "/static/js/main.22d617b8.js.map",
+    "333.ff23a92f.chunk.js.map": "/static/js/333.ff23a92f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9b1da0f.js",
-    "static/css/2.95d02a1e.chunk.css",
-    "static/js/2.6eab455d.chunk.js",
-    "static/css/main.0cc84805.chunk.css",
-    "static/js/main.ecf3d20d.chunk.js"
+    "static/css/main.e5163e20.css",
+    "static/js/main.22d617b8.js"
   ]
 }

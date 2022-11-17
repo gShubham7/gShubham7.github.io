@@ -1,15 +1,6 @@
-import { StrictMode } from "react";
-import ReactDOM from "react-dom";
+import React from "react";
+import { render } from "react-snapshot";
+import { App } from "./app/App";
 import "./index.css";
-import App from "./App";
-import { ThemeProvider } from "./Context/theme";
 
-const rootElement = document.getElementById("root");
-ReactDOM.render(
-  <StrictMode>
-    <ThemeProvider>
-      <App />
-    </ThemeProvider>
-  </StrictMode>,
-  rootElement
-);
+render(<App />, document.getElementById("root"));

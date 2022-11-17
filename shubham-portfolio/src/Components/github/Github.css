@@ -1,0 +1,7 @@
+.github {
+  margin-left: 50px;
+}
+.github>div {
+  width: 80%;
+  margin: auto;
+}
