@@ -8,12 +8,13 @@ import { ThemeToggle } from "../components/theme/ThemeToggle";
 import { Resume } from "../components/resume/Resume";
 import { SocialIcons } from "../components/content/SocialIcons";
 import { SpeedDials } from "../components/speedDial/SpeedDial";
-import { SideNavbar } from "../components/nav/SideNavbar";
+// import { SideNavbar } from "../components/nav/SideNavbar";
 import { Works } from "../components/works/Works";
 import { About } from "../components/about/About";
 import { Contact } from "../components/contact/Contact";
 import { Skills } from "../components/skills/Skills";
 import { Github } from "../components/github/Github";
+import { Topbar } from "../components/topbar/Topbar";
 
 const useStyles = makeStyles(() => ({
   root: {
@@ -41,11 +42,12 @@ export const Home = () => {
         </Hidden>
         <Resume />
       </div>
-      <SideNavbar />
+      {/* <SideNavbar /> */}
+      <Topbar />
+      <About />
       <Works />
       <Skills />
       <Github />
-      <About />
       <Contact />
     </>
   );
