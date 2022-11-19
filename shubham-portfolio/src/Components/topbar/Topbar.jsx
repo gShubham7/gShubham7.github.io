@@ -5,7 +5,6 @@ import { AiOutlineUser } from "react-icons/ai";
 import { BiBook } from "react-icons/bi";
 import { BiMessageSquareDetail } from "react-icons/bi";
 import { BiMedal } from "react-icons/bi";
-
 import "./topbar.css";
 
 export const Topbar = () => {
