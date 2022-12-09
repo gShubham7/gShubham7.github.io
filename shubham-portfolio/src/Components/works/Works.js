@@ -111,6 +111,9 @@ export const Works = () => {
 
   return (
     <section id="works">
+      <h1 style={{ textAlign: "center", padding: "20px", fontSize: "3rem" }}>
+        Projects
+      </h1>
       <Container component="main" className={classes.main} maxWidth="md">
         {projects.map((project) => (
           <div className="project" key={project.id}>

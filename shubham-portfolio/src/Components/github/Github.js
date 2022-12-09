@@ -8,7 +8,7 @@ export const Github = () => {
   return (
     <div className="github">
       <div className="calender">
-        <h3>Days I Code</h3>
+        <h1 style={{textAlign:"center", padding:"40px"}}>Days I Code</h1>
         <Githubcalendar
           username="gShubham7"
           theme={lightBlue}

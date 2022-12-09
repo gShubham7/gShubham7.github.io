@@ -5,6 +5,7 @@ export const Stats = () => {
     // streak
     <>
       <div>
+        <h1 style={{textAlign:"center", padding:"40px"}}>GitHub Stats</h1>
         <div align="center">
           <a href="https://github.com/gShubham7">
             <img

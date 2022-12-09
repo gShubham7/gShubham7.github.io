@@ -19,21 +19,24 @@ const useStyles = makeStyles((theme) => ({
 
 export const About = () => {
   const classes = useStyles();
-  const greetings = "Hey... Hi !";
+  const greetings = "Hey...!";
   const aboutme = `I'm ${FirstName} ${LastName}, a Full Stack Web Developer who loves solving problems and building projects. I am equipped with a variety of technologies and tools to help me to build the best possible product.`;
 
   return (
-    <section id="about">
-      <Container component="main" className={classes.main} maxWidth="md">
+    <section id="about">      
+      <Container component="main" className={classes.main} maxWidth="md">        
+      <h1 style={{ textAlign: "center", padding: "20px", fontSize: "3rem" }}>
+        About Me
+      </h1>
         <div className="about">
           <div
             className="_img"
             style={{
               background: "url(" + profile + ")",
-              backgroundSize: "cover",
+              // backgroundSize: "cover",
               backgroundPosition: "center",
               backgroundRepeat: "no-repeat",
-              // backgroundSize: "200px",
+              backgroundSize: "250px",
             }}
           ></div>
           <div className="_content_wrapper">

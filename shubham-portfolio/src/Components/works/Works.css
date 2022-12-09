@@ -21,7 +21,7 @@
   width: 100%;
 }
 .__content_wrapper {
-  width: 40%;
+  width: 40%; 
   justify-content: center;
   align-items: center;
   display: flex;
@@ -36,7 +36,7 @@
 }
 .description {
   font-size: 1rem;
-  width: 60%;
+  width: 80%;
 }
 .techs {
   display:flex;

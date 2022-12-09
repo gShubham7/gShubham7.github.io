@@ -24,6 +24,9 @@ export const Skills = () => {
     <>
       <div id="skills" className="section main" data-aos="fade-right">
         {/* <h2 className="section__title different">Skills</h2> */}
+        <h1 style={{ textAlign: "center", padding: "20px", fontSize: "3rem" }}>
+          Skills
+        </h1>
         <div className="techsection">
           <div>
             <SiJavascript />
@@ -97,7 +100,7 @@ export const Skills = () => {
           <div>
             <VscGithub />
             <h5>Github</h5>
-          </div>                
+          </div>
         </div>
       </div>
     </>
