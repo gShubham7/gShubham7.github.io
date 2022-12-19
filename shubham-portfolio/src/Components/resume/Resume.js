@@ -34,7 +34,7 @@ export const Resume = () => {
       underline='none'
       href= {`https://drive.google.com/file/d/1hLpqSy7GF-HH3yH2-Wutv_zKy4AETS7g/view?usp=share_link`}
       target='_blank'      
-      rel='noopener noreferrer'
+      // rel='noopener noreferrer'
       // style={{display:"flex",alignItems:"center"}}
     >
       <ResumeIcon />
