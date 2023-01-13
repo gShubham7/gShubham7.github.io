@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ed2f693.css",
-    "main.js": "/static/js/main.1cfb6154.js",
-    "static/js/333.9d89399e.chunk.js": "/static/js/333.9d89399e.chunk.js",
-    "static/media/boat.png": "/static/media/boat.2405b56914125be59e4b.png",
-    "static/media/justShop.png": "/static/media/justShop.78290883c97496392197.png",
+    "main.css": "/static/css/main.8b4f802c.css",
+    "main.js": "/static/js/main.71022c1b.js",
+    "static/js/333.ff23a92f.chunk.js": "/static/js/333.ff23a92f.chunk.js",
     "static/media/sparkAmerica.png": "/static/media/sparkAmerica.a8e4f510e218f2bba419.png",
-    "static/media/cult-fit.png": "/static/media/cult-fit.b9b97167ee7b3f79f931.png",
     "static/media/profile.png": "/static/media/profile.0ea67e8a0cca45fd9c67.png",
-    "static/media/Shubham-Gaikwad-Resume.pdf": "/static/media/Shubham-Gaikwad-Resume.141fc800c51b16b41b9b.pdf",
+    "static/media/justShop.png": "/static/media/justShop.3cb664cb0950579c3095.png",
+    "static/media/boat.png": "/static/media/boat.fd635536c75f0c997dd1.png",
+    "static/media/cult-fit.png": "/static/media/cult-fit.1e5bd6c0e92224e1dd52.png",
+    "static/media/ecotone.png": "/static/media/ecotone.6194bfef0aaf274a1cdd.png",
+    "static/media/blog.png": "/static/media/blog.a9b60254f8421d52f8e5.png",
+    "static/media/Shubham-Gaikwad-Resume.pdf": "/static/media/Shubham-Gaikwad-Resume.b24ac3fc215d880c6ff5.pdf",
     "static/media/S_Logo.png": "/static/media/S_Logo.4e29f2d257d3b634878e.png",
     "index.html": "/index.html",
-    "main.0ed2f693.css.map": "/static/css/main.0ed2f693.css.map",
-    "main.1cfb6154.js.map": "/static/js/main.1cfb6154.js.map",
-    "333.9d89399e.chunk.js.map": "/static/js/333.9d89399e.chunk.js.map"
+    "main.8b4f802c.css.map": "/static/css/main.8b4f802c.css.map",
+    "main.71022c1b.js.map": "/static/js/main.71022c1b.js.map",
+    "333.ff23a92f.chunk.js.map": "/static/js/333.ff23a92f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ed2f693.css",
-    "static/js/main.1cfb6154.js"
+    "static/css/main.8b4f802c.css",
+    "static/js/main.71022c1b.js"
   ]
 }
