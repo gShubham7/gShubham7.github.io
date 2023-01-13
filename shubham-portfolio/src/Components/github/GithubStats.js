@@ -21,7 +21,7 @@ export const Stats = () => {
             <img
               style={{ width: "50%" }}
               align="center"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=gShubham7&theme=transparent&hide_border=true&layout=compact" //launguages
+              src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gShubham7&theme=transparent&hide_border=true&layout=compact" //launguages             
               alt="language"
             />
           </a>
@@ -31,7 +31,7 @@ export const Stats = () => {
             <img
               style={{ width: "50%" }}
               align="center"
-              src="https://github-readme-stats.vercel.app/api?username=gShubham7&theme=transparent&count_private=true&show_icons=true&hide_border=true" //stats
+              src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gShubham7&theme=transparent&count_private=true&show_icons=true&hide_border=true" //stats
               alt="stats"
             />
           </a>

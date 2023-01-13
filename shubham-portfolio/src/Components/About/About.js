@@ -33,10 +33,9 @@ export const About = () => {
             className="_img"
             style={{
               background: "url(" + profile + ")",
-              // backgroundSize: "cover",
+              backgroundSize: "contain",
               backgroundPosition: "center",
-              backgroundRepeat: "no-repeat",
-              backgroundSize: "250px",
+              backgroundRepeat: "no-repeat",                         
             }}
           ></div>
           <div className="_content_wrapper">
