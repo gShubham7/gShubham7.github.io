@@ -29,7 +29,7 @@ export const Resume = () => {
       <Link
         color="inherit"
         underline="none"
-        href={`https://drive.google.com/file/d/1hLpqSy7GF-HH3yH2-Wutv_zKy4AETS7g/view?usp=share_link`}        
+        href={`https://drive.google.com/file/d/16Jhts__iC0PDIzMxAfT6FbKPSPS0v8wm/view?usp=sharing`}        
         target="_blank"
         // rel='noopener noreferrer'
         // style={{display:"flex",alignItems:"center"}}

@@ -115,7 +115,7 @@ export const Contact = () => {
                 <i className="fas fa-terminal"></i>
                 <Typography component="span">
                   {" "}
-                  Send to gaikwad7777@gmail.com
+                  Send to shubham.gaikwad.220894@gmail.com
                 </Typography>
               </button>
             </form>

@@ -14,8 +14,9 @@ import {
   SiPostman,
   SiTypescript,
   SiFigma,
+  SiJest,
 } from "react-icons/si";
-import { DiMongodb, DiHeroku } from "react-icons/di";
+import { DiMongodb } from "react-icons/di";
 import { VscGithub } from "react-icons/vsc";
 import { BsBootstrap } from "react-icons/bs";
 
@@ -60,10 +61,13 @@ export const Skills = () => {
             <DiMongodb />
             <h5>MongoDB</h5>
           </div>
-
           <div>
             <SiExpress />
             <h5>Express</h5>
+          </div>
+          <div>
+            <SiJest />
+            <h5>Jest</h5>
           </div>
           <div>
             <SiMaterialui />
@@ -88,10 +92,6 @@ export const Skills = () => {
           <div>
             <SiNetlify />
             <h5>Netlify</h5>
-          </div>
-          <div>
-            <DiHeroku />
-            <h5>Heroku</h5>
           </div>
           <div>
             <SiVercel />
