@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b4f802c.css",
-    "main.js": "/static/js/main.8c8418e5.js",
-    "static/js/333.ff23a92f.chunk.js": "/static/js/333.ff23a92f.chunk.js",
+    "main.css": "/static/css/main.226fd893.css",
+    "main.js": "/static/js/main.553d0061.js",
+    "static/js/333.fdb74a12.chunk.js": "/static/js/333.fdb74a12.chunk.js",
     "static/media/sparkAmerica.png": "/static/media/sparkAmerica.a8e4f510e218f2bba419.png",
     "static/media/profile.png": "/static/media/profile.0ea67e8a0cca45fd9c67.png",
     "static/media/justShop.png": "/static/media/justShop.3cb664cb0950579c3095.png",
@@ -10,15 +10,15 @@
     "static/media/cult-fit.png": "/static/media/cult-fit.1e5bd6c0e92224e1dd52.png",
     "static/media/ecotone.png": "/static/media/ecotone.6194bfef0aaf274a1cdd.png",
     "static/media/blog.png": "/static/media/blog.a9b60254f8421d52f8e5.png",
-    "static/media/Shubham-Gaikwad-Resume.pdf": "/static/media/Shubham-Gaikwad-Resume.bf308bd29170e560dc16.pdf",
+    "static/media/Shubham-Gaikwad-Resume.pdf": "/static/media/Shubham-Gaikwad-Resume.60355d892333072c427e.pdf",
     "static/media/S_Logo.png": "/static/media/S_Logo.4e29f2d257d3b634878e.png",
     "index.html": "/index.html",
-    "main.8b4f802c.css.map": "/static/css/main.8b4f802c.css.map",
-    "main.8c8418e5.js.map": "/static/js/main.8c8418e5.js.map",
-    "333.ff23a92f.chunk.js.map": "/static/js/333.ff23a92f.chunk.js.map"
+    "main.226fd893.css.map": "/static/css/main.226fd893.css.map",
+    "main.553d0061.js.map": "/static/js/main.553d0061.js.map",
+    "333.fdb74a12.chunk.js.map": "/static/js/333.fdb74a12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b4f802c.css",
-    "static/js/main.8c8418e5.js"
+    "static/css/main.226fd893.css",
+    "static/js/main.553d0061.js"
   ]
 }
